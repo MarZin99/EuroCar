@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
-import thunder from "../../public/thunder.svg";
+import thunder from "../../public/svg/thunder.svg";
 
 export default function TopNav() {
   const pages = [
